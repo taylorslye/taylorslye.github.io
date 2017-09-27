@@ -19,7 +19,9 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body {
-  line-height: 1; }
+  line-height: 1;
+  background-color: #66ff99;
+   }
 
 ol, ul {
   list-style: none; }
@@ -56,3 +58,14 @@ a {
 
 #main {
   padding: 50px; }
+h3 {
+  color: #cc00cc;
+  font-size: 2em;
+  font-family: Comic Sans MS;
+text-align: center;
+}
+.line {
+  text-align: center;
+  padding-left: 100px;
+  padding-top: 20px;
+}
