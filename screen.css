@@ -65,6 +65,7 @@ h3 {
 text-align: center;
 }
 .line {
+  font-style: italic; 
   text-align: center;
   padding-left: 100px;
   padding-top: 20px;
