@@ -70,3 +70,23 @@ text-align: center;
   padding-left: 100px;
   padding-top: 20px;
 }
+#button1{
+  position: sticky;
+  left: 0;
+  right: 0;
+  height:20px;
+  width:20%;
+  border: 5px solid gray;
+  text-align: center;
+#button2{
+  position: sticky;
+}
+#button3{
+  position: sticky;
+}
+#button4{
+  position: sticky;
+}
+#button5{
+  position: sticky;
+}
