@@ -76,17 +76,77 @@ text-align: center;
   right: 0;
   height:20px;
   width:20%;
-  border: 5px solid gray;
+  background-color: orange;
   text-align: center;
+  vertical-align: top;
+  display:block;
+  float:left;
+}
+#button1:hover{
+  background-color:orange;
+}
 #button2{
   position: sticky;
+  left: 20%;
+  right: 0;
+  height:20px;
+  width:20%;
+  background-color: orange;
+  text-align: center;
+  vertical-align: top;
+  display: block;
+  float:left;
 }
 #button3{
   position: sticky;
+  left: 30%;
+  right: 0;
+  height:20px;
+  width:20%;
+  background-color: orange;
+  text-align: center;
+  vertical-align: top;
+  display: block;
+  float:left;
 }
 #button4{
   position: sticky;
+  left: 60%;
+  right: 0;
+  height:20px;
+  width:20%;
+  background-color: orange;
+  text-align: center;
+  vertical-align: top;
+  display: block;
+  float:left;
 }
 #button5{
   position: sticky;
+  left: 80%;
+  right: 0;
+  height:20px;
+  width:20%;
+  background-color: orange;
+  text-align: center;
+  vertical-align: top;
+  display: block;
+  float:left;
 }
+#button2:hover{
+  background-color: red;
+}
+#button1:hover{
+  background-color: red;
+}
+#button3:hover{
+  background-color: red;
+}
+#button4:hover{
+  background-color: red;
+}
+#button5:hover{
+  background-color: red;
+}
+
+
