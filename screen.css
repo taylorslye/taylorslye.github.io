@@ -58,11 +58,20 @@ a {
 
 #main {
   padding: 50px; }
-h3 {
-  color: #cc00cc;
-  font-size: 2em;
-  font-family: Comic Sans MS;
-text-align: center;
+#title{
+  font-family: sans-serif;
+  font-size: 40px;
+  color:#000000;
+  text-align: center;
+  float:top;
+  position:relative;
+}
+#textbody{
+  font-family: sans-serif;
+  font-size: 20px;
+  color:#000000;
+  float:top;
+  position:relative;
 }
 .line {
   font-style: italic; 
