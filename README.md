@@ -1,3 +1,4 @@
-taylorslye.github.io
+# This is a portfolio for Taylor Slye
 
-A portfolio for myself that showcases my skills and past projects.
+## [This repository link displays the website and code](taylorslye.github.io)
+## © 2018 Taylor Slye
