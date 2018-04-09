@@ -18,6 +18,15 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline; }
 
+p {
+  text-align: center;
+  color:white;
+  size: 10px;
+}
+h1:hover{
+  color: white;
+}
+
 body {
   line-height: 1;
   background-color: #0f264c;
@@ -51,10 +60,6 @@ body {
   font-family: sans-serif;
   color: #2a2a2a; }
 
-a {
-  color: #0388a6; }
-  a:hover {
-    color: #009ce0; }
 
 #main {
   padding: 50px; }
@@ -85,14 +90,14 @@ a {
   right: 0;
   height:20px;
   width:20%;
-  background-color: orange;
+  background-color: #6e8ab7;
   text-align: center;
   vertical-align: top;
   display:block;
   float:left;
 }
 #button1:hover{
-  background-color:orange;
+  background-color:#6e8ab7;
 }
 #button2{
   position: sticky;
@@ -100,7 +105,7 @@ a {
   right: 0;
   height:20px;
   width:20%;
-  background-color: orange;
+  background-color: #6e8ab7;
   text-align: center;
   vertical-align: top;
   display: block;
@@ -112,7 +117,7 @@ a {
   right: 0;
   height:20px;
   width:20%;
-  background-color: orange;
+  background-color: #6e8ab7;
   text-align: center;
   vertical-align: top;
   display: block;
@@ -124,7 +129,7 @@ a {
   right: 0;
   height:20px;
   width:20%;
-  background-color: orange;
+  background-color: #6e8ab7;
   text-align: center;
   vertical-align: top;
   display: block;
@@ -136,41 +141,42 @@ a {
   right: 0;
   height:20px;
   width:20%;
-  background-color: orange;
+  background-color: #6e8ab7;
   text-align: center;
   vertical-align: top;
   display: block;
   float:left;
 }
 #button2:hover{
-  background-color: red;
+  background-color: #011a42;
+
 }
 #button1:hover{
-  background-color: red;
+  background-color: #011a42;
 }
 #button3:hover{
-  background-color: red;
+  background-color: #011a42;
 }
 #button4:hover{
-  background-color: red;
+  background-color: #011a42;
 }
 #button5:hover{
-  background-color: red;
+  background-color: #011a42;
 }
 
 .dropdown {
     position: relative;
     display: inline-block;
+    width:100%;
 }
 
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 160px;
+    min-width: 100%;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-    margin-top: 20px;
 }
 
 .dropdown-content a {
